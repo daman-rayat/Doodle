@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', () => {
           doodlerLeftSpace +=5
           doodler.style.left = doodlerLeftSpace + 'px'
         } else moveLeft()
-      },20)
+      },20);
     }
     
     function moveStraight() {
